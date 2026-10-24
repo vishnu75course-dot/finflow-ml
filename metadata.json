@@ -1,0 +1,10 @@
+{
+  "name": "FinFlow AI",
+  "description": "A comprehensive financial control center with AI-driven insights, budgeting, and goal tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Financial Insights",
+    "Interactive Data Visualization",
+    "Budget & Goal Tracking"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "$2b$10$l..MLXTKYkDAvL9UYgtPiOzo7u7JMKZF7vhF15.YSOh1wm.YWSUOu",
+      "monthlyIncome": 19500,
+      "currency": "₹"
+    },
+    {
+      "id": "1777699840435",
+      "name": "prasath",
+      "email": "prasath@gmail.com",
+      "password": "$2b$10$s5qaJ0OTJQfBOJmJYqdaLuPBh5A6fgyYOHgOHSDH5IWuDnjylp3ZG",
+      "monthlyIncome": 0,
+      "currency": "₹"
+    },
+    {
+      "id": "1777700228835",
+      "name": "vijay",
+      "email": "vijay@gmail.com",
+      "password": "$2b$10$DPIwLAT1O5nzq7h/gs6UnePDJ9Nb/PKwV2do7Nnehg8Ep6g2VBRGK",
+      "monthlyIncome": 0,
+      "currency": "₹"
+    },
+    {
+      "id": "1777702265848",
+      "name": "ajith",
+      "email": "ajith@gmail.com",
+      "password": "$2b$10$oVRZFsnvyrEZM2XBnm0jFeH9lBIYBVpRYbpC0.WGMBdYE4dsMxMJO",
+      "monthlyIncome": 0,
+      "currency": "₹"
+    },
+    {
+      "id": "1777702534531",
+      "name": "aijth",
+      "email": "aijth@gmail.com",
+      "password": "$2b$10$6CzvrR3YM0TAXdh26WFtXukkG.gqnNsDcjURPjtEbbvQ1eVgS5lte",
+      "monthlyIncome": 0,
+      "currency": "₹"
+    },
+    {
+      "id": "1779340892817",
+      "name": "vishnu",
+      "email": "s.vishnuprasath1705@gmail.com",
+      "password": "$2b$10$tvNrtC0v2Om6Q47pb/BnWusEI2zQPbKNk3WaiE.7prNKnUqfhJv7O",
+      "monthlyIncome": 50000,
+      "currency": "$"
+    }
+  ],
+  "transactions": [
+    {
+      "title": "gas",
+      "amount": 900,
+      "category": "Others",
+      "date": "2026-05-19",
+      "type": "expense",
+      "id": "1779209328208"
+    },
+    {
+      "title": "food",
+      "amount": 200,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-05-16",
+      "id": "1778953949912"
+    },
+    {
+      "title": "gas",
+      "amount": 1000,
+      "category": "Others",
+      "date": "2026-05-16",
+      "type": "expense",
+      "id": "1778953768663"
+    },
+    {
+      "title": "wifi",
+      "amount": 500,
+      "category": "Internet",
+      "date": "2026-05-16",
+      "type": "expense",
+      "id": "1778953553909"
+    },
+    {
+      "title": "electricity",
+      "amount": 1600,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-05-03",
+      "id": "1777824495346"
+    },
+    {
+      "title": "fees",
+      "amount": 5000,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-05-03",
+      "id": "1777824455318"
+    },
+    {
+      "title": "market",
+      "amount": 2484,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-05-03",
+      "id": "1777824142285"
+    },
+    {
+      "title": "food",
+      "amount": 200,
+      "type": "expense",
+      "category": "Food",
+      "date": "2026-04-04",
+      "id": "1777824106820"
+    },
+    {
+      "title": "salary",
+      "amount": 500,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-04-01",
+      "id": "1777824060342"
+    },
+    {
+      "title": "cab",
+      "amount": 300,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-05-02",
+      "id": "1777728669146"
+    },
+    {
+      "title": "super market",
+      "amount": 200,
+      "type": "expense",
+      "category": "Others",
+      "date": "2026-05-02",
+      "id": "1777728651865"
+    },
+    {
+      "title": "salary",
+      "amount": 19500,
+      "type": "income",
+      "category": "Salary",
+      "date": "2026-05-02",
+      "id": "1777653000660"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit": 233,
+      "spent": 200
+    }
+  ],
+  "goals": [
+    {
+      "id": "1",
+      "title": "Buy Laptop",
+      "target": 60000,
+      "current": 20000
+    },
+    {
+      "id": "2",
+      "title": "Europe Trip",
+      "target": 30000,
+      "current": 12000
+    },
+    {
+      "title": "car",
+      "target": 500000,
+      "current": 100000,
+      "id": "1777653240808"
+    }
+  ],
+  "insights": [
+    {
+      "id": "1",
+      "type": "warning",
+      "message": "You spent 32% more on food this week.",
+      "category": "Food"
+    },
+    {
+      "id": "2",
+      "type": "tip",
+      "message": "Weekend spending is 15% higher than average.",
+      "category": "Others"
+    }
+  ],
+  "reminders": [
+    {
+      "title": "jjk",
+      "amount": 14,
+      "category": "Housing",
+      "dueDate": "2026-05-15",
+      "status": "paid",
+      "id": "1778954184078"
+    },
+    {
+      "title": "gas",
+      "amount": 900,
+      "category": "Others",
+      "dueDate": "2026-05-22",
+      "status": "paid",
+      "id": "1779209314299"
+    },
+    {
+      "title": "bill",
+      "amount": 23,
+      "category": "Utilities",
+      "dueDate": "2026-05-22",
+      "status": "pending",
+      "id": "1779341213756"
+    }
+  ]
+}
